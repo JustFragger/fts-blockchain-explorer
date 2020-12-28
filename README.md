@@ -1,10 +1,9 @@
-#  Blockchain-Explorer for http://explorer.bitcoinnova.org
+# FTSCoin Blockchain-Explorer for http://ftscoin.xyz/block/index.html
 
 
-Hi, welcome on my custom block explorer for bitcoinnova.org.
+Rebranded FTSCoin Explorer for ftscoin.xyz
 
-And you can vitis GitHub on https://github.com/BitcoinNova
 
 ```bash
-./Bitcoinnovad --enable-cors="*" --enable-blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=45223
+./ftscoind --enable-cors="*" --enable-blockexplorer --rpc-bind-ip=0.0.0.0 --rpc-bind-port=11898
 ```
