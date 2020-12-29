@@ -7,14 +7,14 @@ var refreshDelay = 10000;
 var networkStat = {
     "fts": [
     	["fts.miningpool.fun", "https://fts.miningpool.fun:8156"],
-        ["webfts.semipool.com", ""],
+        ["webfts.semipool.com", "https://webfts.semipool.com/api"],
         ["kryptokrona.compool.net", ""]
     ]
 };
 var networkStat2 = {
     "fts": [
     	["fts.miningpool.fun", "https://fts.miningpool.fun:8156"],
-        ["webfts.semipool.com", ""],
+        ["webfts.semipool.com", "https://webfts.semipool.com/api"],
 	    ["kryptokrona.compool.net", ""]
     ]
 };
