@@ -1,5 +1,5 @@
 var api = 'http://explorer.ftscoin.xyz:11898';
-var donationAddress = "fts1eXwCpKb7hu5rG48PFEDCEVtVmME4jLvb78bWsLj8FSEcxPuwVcGLJMXmojWceUik5fxuqeeCyVEj6LBbsH891tMQgkpfCr";
+var donationAddress = "fts1dDCQCFo41tj9HnphBqSzU53DGqvv3ZAU8XyEzFJt292umZ5fwbgfqdGLLMfCapYUCwU9Vpr1taMfMaYtTSnz2ckemV4JFE";
 var blockTargetInterval = 120;
 var coinUnits = 100000000;
 var symbol = 'FTS';
